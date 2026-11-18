@@ -1,0 +1,246 @@
+[
+  {
+    "key": "app_name",
+    "value": "Gránit bank ajánló kód"
+  },
+  {
+    "key": "title",
+    "value": "GRÁNIT BANK AJÁNLÓKÓDOK"
+  },
+  {
+    "key": "button_1_text",
+    "value": "AJÁNLÓKÓDOK"
+  },
+  {
+    "key": "button_2_text",
+    "value": "LÉPÉSEK"
+  },
+  {
+    "key": "button_3_text",
+    "value": "FELTÉTELEK"
+  },
+  {
+    "key": "copied",
+    "value": "Vágólapra másolva!"
+  },
+  {
+    "key": "step_1",
+    "value": "Nyiss számlát szelfivel és add meg az ajánlókódot:"
+  },
+  {
+    "key": "step_1_1",
+    "value": "A számlanyitáshoz használd az app-ot, mely letölthető a bank hivatalos weboldaláról:\n"
+  },
+  {
+    "key": "step_2",
+    "value": "Aktiváld a gránit app-ot, ehhez jelentkezz be a mobil alkalmazáson keresztül."
+  },
+  {
+    "key": "step_3",
+    "value": "A 20 000 FT jóváíráshoz 5 db sikeres bankkátyás vásárlás szükséges, összesen minimum 25 000 Ft értékben 30 napon belül!"
+  },
+  {
+    "key": "step_3_1",
+    "value": "További részletek a feltételek menü pontban."
+  },
+  {
+    "key": "requirement_1_title",
+    "value": "Ajánlókód - 20 000 FT"
+  },
+  {
+    "key": "requirement_2_title",
+    "value": "Szelfis számlanyitás - 60 000 FT"
+  },
+  {
+    "key": "requirement_3_title",
+    "value": "Rendszeres megtakarítási bónusz - akár 40 000 FT"
+  },
+  {
+    "key": "main_requirements",
+    "value": "Fő feltételek:"
+  },
+  {
+    "key": "other_requirements",
+    "value": "Egyéb feltételek:"
+  },
+  {
+    "key": "eligible_packages",
+    "value": "Jogosult számlacsomagok:"
+  },
+  {
+    "key": "more_info",
+    "value": "További információ:"
+  },
+  {
+    "key": "requirement_1_text_1",
+    "value": "Az akció ideje alatt (2026.11.06 - 2026.12.17) szelfis számlanyitás a Granit app és a [code] kód segítségével."
+  },
+  {
+    "key": "requirement_1_text_2",
+    "value": "30 napon belül minimum 5 db sikeres vásárlás a bankszámlához tartozó bankkártyával, minösszesen 25 000 FT értékben."
+  },
+  {
+    "key": "requirement_1_text_3",
+    "value": "30 napon belül aktiválja a Granit app applikációt."
+  },
+  {
+    "key": "requirement_1_text_4",
+    "value": "18. életévet betöltött magán személy."
+  },
+  {
+    "key": "requirement_1_text_5",
+    "value": "Nem rendelkezik és korábban sem rendelkezett a Granit Banknál bankszámlával."
+  },
+  {
+    "key": "requirement_1_text_6",
+    "value": "A 20 000 FT jóváírását a bank a feltétel teljesítésének hónapját követő hónap utolsó napjáig teljesíti."
+  },
+  {
+    "key": "requirement_1_text_7",
+    "value": "Az ügyfél vállalja, hogy a bankszámlát és a bankkártyát 24 hónapig nem szünteti meg."
+  },
+  {
+    "key": "requirement_1_text_8",
+    "value": "Nem kaphat jóváírást, ha a számláján a számlanyitás napjától a feltételek vizsgálatáig negatív egyenleg mutatkozik."
+  },
+  {
+    "key": "requirement_1_text_9",
+    "value": "A Revolut, Wise bankkártyák, számlák és hitelkártya feltöltések nem számítanak bele a vásárlások összértékébe."
+  },
+  {
+    "key": "requirement_1_packages",
+    "value": "Bármely számla csomag."
+  },
+  {
+    "key": "requirement_1_more_info_1",
+    "value": "Látogasson el a hivatalos weboldalra."
+  },
+  {
+    "key": "requirement_1_more_info_2",
+    "value": "Vagy olvassa át a hivatalos hirdetményt."
+  },
+  {
+    "key": "requirement_2_text_2",
+    "value": "A számlanyitás során fizikai vagy virtuális bankkártyát igényel, és a bankkártyát 30 napon belül aktiválja."
+  },
+  {
+    "key": "requirement_2_text_3",
+    "value": "Nem rendelkezik és az akció kezdő időpontját megelőző 180 napban sem rendelkezett Gránit Bankkal kötött Pénzforgalmi keretszerződéssel."
+  },
+  {
+    "key": "requirement_2_text_4",
+    "value": "30 napon belül aktiválja a Granit app applikációt."
+  },
+  {
+    "key": "requirement_2_text_5",
+    "value": "Számlanyitás során hozzájárulás a marketingcélú megkereséshez."
+  },
+  {
+    "key": "requirement_2_text_6",
+    "value": "A 60 000 FT jóváírását a bank a feltétel teljesítésének hónapját követő hónap utolsó napjáig teljesíti."
+  },
+  {
+    "key": "requirement_2_packages",
+    "value": "Gránit Hello, Gránit Plusz, Gránit Prémium, Gránit Prestige, Gránit Kapcsolat Plusz."
+  },
+  {
+    "key": "requirement_2_more_info_1",
+    "value": "Látogasson el a hivatalos weboldalra."
+  },
+  {
+    "key": "requirement_2_more_info_2",
+    "value": "Vagy olvassa át a hivatalos hirdetményt."
+  },
+  {
+    "key": "requirement_2_packages_info_1",
+    "value": "Gránit Hello (26. életév betöltése után), Gránit Plusz, Gránit Prémium, Gránit Prestige, Gránit Kapcsolat Plusz:"
+  },
+  {
+    "key": "requirement_2_packages_info_1_1",
+    "value": "A szerződéskötés hónapját követő 2. naptári hónap végéig két egymást követő hónapban minimum 5 db sikeres bankkártyás vásárlás, mindösszesen legalább 25 000 Ft értékben."
+  },
+  {
+    "key": "requirement_2_packages_info_1_2",
+    "value": "A szerződéskötés hónapját követő 2. naptári hónap végéig két egymást követő hónapban legalább 100.000 Ft egyösszegű jóváírás érkezik a bankszámlájára."
+  },
+  {
+    "key": "requirement_2_packages_info_1_3",
+    "value": "A Bank jóváírásként a bankon kívülről vagy harmadik személytől átutalásként érkező jóváírásokat veszi figyelembe."
+  },
+  {
+    "key": "requirement_2_packages_info_1_4",
+    "value": "A Bank nem veszi figyelembe a pénztári befizetéseket, és a Gránit Bank hitelezésével kapcsolatosan a bankszámlára érkező jóváírásokat."
+  },
+  {
+    "key": "requirement_2_packages_info_2",
+    "value": "Gránit Hello (26. életév betöltése elött):"
+  },
+  {
+    "key": "requirement_3_text_1",
+    "value": "Lakossági ügyfélként rendelkezzen Gránit Banknál bankszámlával és értékpapírszámláva."
+  },
+  {
+    "key": "requirement_3_text_2",
+    "value": "A Gránit App szolgáltatáson keresztül rendszeres, havi minimum 5000 FT értékben vásároljon befektetési jegyet a hirdetményben meghatározott befektetési alapokból."
+  },
+  {
+    "key": "requirement_3_text_3",
+    "value": "A Bank az Akció ideje alatt vállalt rendszeres megtakarítás havi mértékének megfelelő összeggel egyező mértékben, de maximum 40.000 forint értékben biztosít jóváírást."
+  },
+  {
+    "key": "license",
+    "value": "Felhasználói feltételek"
+  },
+  {
+    "key": "libraries",
+    "value": "Könyvtárakról"
+  },
+  {
+    "key": "libraries_title",
+    "value": "Felhasznált nyílt forráskódú könyvtárak"
+  },
+  {
+    "key": "copyright",
+    "value": "Copyright © 2026 Napharcos"
+  },
+  {
+    "key": "license_text_1",
+    "value": "A weboldal személyes vagy nem kereskedelmi célú használata engedélyezett, azonban a szerző kifejezett engedélye nélkül tilos annak másolása, terjesztése, módosítása, illetve származékos művek létrehozása."
+  },
+  {
+    "key": "license_text_2",
+    "value": "Az oldalon megjelenő információk kizárólag tájékoztatási célt szolgálnak, és nem minősülnek pénzügyi tanácsadásnak, továbbá nem tekinthetők a Gránit Bank Nyrt. hivatalos ajánlatának."
+  },
+  {
+    "key": "license_text_3",
+    "value": "A weboldal üzemeltetője nem vállal garanciát az itt közzétett adatok pontosságáért."
+  },
+  {
+    "key": "license_text_4",
+    "value": "A weboldal üzemeltetője nem vállal felelősséget semmilyen problémáért, kárért vagy következményért, amely a weboldal használatából eredhet."
+  },
+  {
+    "key": "license_text_5",
+    "value": "A weboldal működése során az üzemeltető nem kér és nem gyűjt személyes adatokat."
+  },
+  {
+    "key": "license_text_6",
+    "value": "A „Gránit Bank” elnevezés, valamint a hozzá kapcsolódó logók a Gránit Bank Nyrt. bejegyzett védjegyei, amelyek itt kizárólag a szolgáltatás azonosítására szolgálnak."
+  },
+  {
+    "key": "library_version",
+    "value": "Verzió: "
+  },
+  {
+    "key": "library_owner",
+    "value": "Tulajdonos: "
+  },
+  {
+    "key": "library_licence",
+    "value": "Licenc: "
+  },
+  {
+    "key": "library_web",
+    "value": "Weboldal: [url]"
+  }
+]
