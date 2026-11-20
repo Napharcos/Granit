@@ -5,13 +5,13 @@
  * ===================================================================== */
 
 // ------------------------------------------------------------ konstansok
-const INVITE_CODES = ["DGCOT", "KCP1J", "FMUZV", "NTAVO"];
+const INVITE_CODES = ["DGCOT", "KCP1J", "FMUZV", "NTAVO", "1ZHRL", "8GQMA"];
 
 const COLORS = {
   ARROW: "#FF0000",
   ARROW_GLOW: "#FF66A1",
   BUBBLE_LINE: "#CCCCCCB2",
-  CODE_BUBBLES: ["#ccffff", "#ccffcc", "#ccffcc", "#ccffff"],
+  CODE_BUBBLES: ["#ccffff", "#ccffcc", "#ccffff", "#ccffcc", "#ccffff", "#ccffcc"],
 };
 
 const LINK_COLOR = "rgb(103, 80, 164)";
@@ -532,7 +532,7 @@ function mainScreen() {
     h("div", { class: "main" },
       h("div", { class: "main-top" },
         titleBar(t("title")),
-        h("div", { class: "main-grid" }, gridBubble(INVITE_CODES.slice(0, 2), INVITE_CODES.slice(-2), 2))),
+        h("div", { class: "main-grid" }, gridBubble(INVITE_CODES.slice(0, 3), INVITE_CODES.slice(-3), 3))),
       h("div", { class: "main-arm" }, friendArm())),
   ];
 }
